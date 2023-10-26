@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(233, 226, 218);
+}
+ul li{
+    display:inline;
+   
+    font-size:1.5em;
+}
+header{
+    background-color: peru;
+   padding:1.5em;
+    
+    text-align: center;
+    margin:-10px;
+    color:white;
+}
+.head{
+    margin-left: -200px;
+}
+nav{
+    background-color:peru;
+    margin:0px -10px;
+    text-align: center;
+    font-size: 20px; 
+}
+.links{
+ padding:10px;
+ 
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.header p{
+    font-size:1.3em;
+}
+.header h1{
+    font-size: 45px;
+    margin-bottom:-10px;
+}
+.division{
+    background-color: white;
+    margin:20px;
+    padding:20px 10px 20px 30px;
+   border-radius: 20px;
+}
+.division h2{
+    font-size: 30px;
+}
+.ul{
+    display:block;
+}
+ol a{
+    color:black;
+}
+.Resume{
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    margin:20px;
+    padding:15px 0px 20px;
+    
+}
+.Resume a{
+    border-radius: 20px;
+    background-color: peru;
+    font-weight: bold;
+    font-size:20px;
+    padding:10px 20px;
+}
+
+.Resume h2{
+    font-size:1.7em;
+    color: black;
+    
+}
+footer p{
+    text-align: center;
+    font-size: 1.5em;
+    background-color: peru;
+    padding:10px 0px;
+    margin:-10px;
+}
+link{
+    background-color: black;
+}
+.para{
+    font-size: 20px;
+}
+.circle{
+    border-radius:50%;
+    float:left;
+   
+   margin:auto;
+}
